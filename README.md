@@ -10,7 +10,8 @@
 
 # Tạo file bat gọi script khaibaoyte.py
   "đường dẫn python" "đường dẫn đến file khaibaoyte.py"
-  ví dụ: "C:\Users\tuanpa2\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\tuanpa2\Documents\testform.py"
+  
+  Ví dụ: "C:\Users\tuanpa2\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\tuanpa2\Documents\testform.py"
 
 # Cấu hình Windows Scheduler thực thi file .bat theo lịch
 
